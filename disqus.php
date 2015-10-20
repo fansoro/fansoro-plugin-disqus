@@ -14,9 +14,9 @@ class Disqus
 {
     public static function comments()
     {
-        $html = '<div id="disqus_thread"></div>
+        echo('<div id="disqus_thread"></div>
     		<script type="text/javascript">
-    			var disqus_shortname = "'.Monstra::$plugins['disqus']['disqus_shortname'].'";
+    			var disqus_shortname = "'.Morfy::$plugins['disqus']['disqus_shortname'].'";
     			(function() {
     				var dsq = document.createElement("script");
     				dsq.type = "text/javascript";
@@ -26,7 +26,7 @@ class Disqus
     			})();
     		</script>
     		<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-    		<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a> ';
-        echo $html;
+    		<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>');
+
     }
 }

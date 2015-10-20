@@ -1,7 +1,12 @@
 # Morfy Disqus Plugin
-Morfy disqus plugin.
+Morfy disqus plugin.  
 
-Use this code in Morfy Templates to show Disqus comments:
+Set your `disqus_shortname` in `/plugins/disqus/disqus.yml`
+```
+disqus_shortname: name
+```
+
+And use this code in Morfy Templates to show Disqus comments:
 ```
 {Disqus::comments()}
 ```
