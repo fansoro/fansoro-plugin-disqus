@@ -1,0 +1,17 @@
+name: Disqus
+version: 1.0.0
+description: "Disqus plugin for Morfy"
+author:
+  name: Sergey Romanenko
+  email: awilum@msn.com
+  url: http://morfy.org
+author:
+  name: Moncho Varela
+  url: http://monchovarela.es
+homepage: https://github.com/morfy-cms/morfy-plugin-disqus
+bugs: https://github.com/morfy-cms/morfy-plugin-disqus/issues
+license: MIT
+
+# Plugin settings
+enabled: true
+disqus_shortname: name
