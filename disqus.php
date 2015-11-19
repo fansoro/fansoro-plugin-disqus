@@ -16,7 +16,7 @@ class Disqus
     {
         echo('<div id="disqus_thread"></div>
     		<script type="text/javascript">
-    			var disqus_shortname = "'.Morfy::$plugins['disqus']['disqus_shortname'].'";
+    			var disqus_shortname = "'.Config::get('plugins.disqus.disqus_shortname').'";
     			(function() {
     				var dsq = document.createElement("script");
     				dsq.type = "text/javascript";
