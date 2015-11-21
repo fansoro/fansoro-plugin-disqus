@@ -22,7 +22,7 @@
     "extra": {
         "installer-name": "disqus",
         "installer-paths": {
-            "plugins/{$name}/": ["morfy-cms/morfy-plugin-disqus"]
+            "plugins/{$name}/": ["type:morfy-plugin"]
         }
     }
 }
