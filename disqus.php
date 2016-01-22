@@ -1,9 +1,9 @@
 <?php
 
 /**
- * Morfy Disqus Plugin
+ * Fansoro Disqus Plugin
  *
- * (c) Romanenko Sergey / Awilum <http://morfy.org>
+ * (c) Romanenko Sergey / Awilum <http://fansoro.org>
  * (c) Moncho Varela / Nakome <http://monchovarela.es>
  *
  * For the full copyright and license information, please view the LICENSE

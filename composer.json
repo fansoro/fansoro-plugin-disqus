@@ -1,9 +1,9 @@
 {
-    "name": "morfy-cms/morfy-plugin-disqus",
-    "type": "morfy-plugin",
-    "description": "Morfy disqus plugin",
-    "keywords": ["morfy", "plugin"],
-    "homepage": "http://morfy.org",
+    "name": "fansoro/fansoro-plugin-disqus",
+    "type": "fansoro-plugin",
+    "description": "fansoro disqus plugin",
+    "keywords": ["fansoro", "plugin"],
+    "homepage": "http://fansoro.org",
     "license": "MIT",
     "authors": [
         {
@@ -13,7 +13,7 @@
         }
     ],
     "support": {
-      "issues": "https://github.com/morfy-cms/morfy-plugin-disqus/issuess"
+      "issues": "https://github.com/fansoro/morfy-plugin-disqus/issuess"
     },
     "require": {
         "php": ">=5.5",

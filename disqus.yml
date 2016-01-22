@@ -1,15 +1,15 @@
 name: Disqus
-version: 2.0.1
-description: "Disqus plugin for Morfy"
+version: 3.0.0
+description: "Disqus plugin for Fansoro"
 author:
   name: Sergey Romanenko
   email: awilum@msn.com
-  url: http://morfy.org
+  url: http://fansoro.org
 author:
   name: Moncho Varela
   url: http://monchovarela.es
-homepage: https://github.com/morfy-cms/morfy-plugin-disqus
-bugs: https://github.com/morfy-cms/morfy-plugin-disqus/issues
+homepage: https://github.com/fansoro/fansoro-plugin-disqus
+bugs: https://github.com/fansoro/fansoro-plugin-disqus/issues
 license: MIT
 
 # Plugin settings
